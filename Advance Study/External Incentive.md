@@ -1,0 +1,5 @@
+---
+tags:
+  - ADVSTDY
+---
+sales/discount
