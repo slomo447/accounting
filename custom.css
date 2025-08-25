@@ -1,8 +1,11 @@
-sidebar {
-.sidebar nav .tree-item[data-level="1"] { margin-left: 0em; }
-.sidebar nav .tree-item[data-level="2"] { margin-left: 1em; }
-.sidebar nav .tree-item[data-level="3"] { margin-left: 2em; }
-.sidebar nav .tree-item[data-level="4"] { margin-left: 3em; }
-.sidebar nav .tree-item[data-level="5"] { margin-left: 4em; }
-.sidebar nav .tree-item[data-level="6"] { margin-left: 5em; }
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&display=swap');
+
+article :is(h1, h2, h3, h4, h5, h6) {
+    font-family: 'Playfair Display', serif !important;
+}
+
+article :not(h1, h2, h3, h4, h5, h6) {
+    font-family: 'EB Garamond', sans-serif !important;
 }
