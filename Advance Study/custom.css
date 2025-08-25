@@ -1,0 +1,6 @@
+.sidebar nav .tree-item[data-level="1"] { margin-left: 0em; }
+.sidebar nav .tree-item[data-level="2"] { margin-left: 1em; }
+.sidebar nav .tree-item[data-level="3"] { margin-left: 2em; }
+.sidebar nav .tree-item[data-level="4"] { margin-left: 3em; }
+.sidebar nav .tree-item[data-level="5"] { margin-left: 4em; }
+.sidebar nav .tree-item[data-level="6"] { margin-left: 5em; }
