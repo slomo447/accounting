@@ -1,6 +1,6 @@
 {
   "title": "Accounting",
   "showSidebar": true,
-  "contentInclude": ["/Accounting"],
-  "contentExclude": ["/Excalidraw", "README.md"]
+  "contentInclude": ["/Accounting", "README.md"],
+  "contentExclude": ["/Excalidraw"]
 }
