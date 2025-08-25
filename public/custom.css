@@ -1,14 +1,24 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
-/* Apply the serif font to headings */
-article :is(h1, h2, h3, h4, h5, h6) {
-    font-family: 'Playfair Display', serif !important;
+/* Apply Playfair Display to headings */
+.page-body.prose h1,
+.page-body.prose h2,
+.page-body.prose h3,
+.page-body.prose h4,
+.page-body.prose h5,
+.page-body.prose h6 {
+  font-family: 'Playfair Display', serif !important;
 }
 
-/* Apply the sans-serif font to the body text */
-article :not(h1, h2, h3, h4, h5, h6) {
-    font-family: 'EB Garamond', serif !important;
+/* Apply Garamond to body text */
+.page-body.prose,
+.page-body.prose p,
+.page-body.prose li,
+.page-body.prose td,
+.page-body.prose th {
+  font-family: 'EB Garamond', serif !important;
 }
+
 
 
 
