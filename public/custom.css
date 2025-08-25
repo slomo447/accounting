@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=EB+Garamond:wght@400;700&display=swap');
+
+/* Apply Playfair Display to all headers */
+article h1,
+article h2,
+article h3,
+article h4,
+article h5,
+article h6 {
+  font-family: 'Playfair Display', serif !important;
+}
+
+/* Apply EB Garamond to body text */
+article {
+  font-family: 'EB Garamond', serif !important;
+}
+
+/* Sidebar indentation by header level */
+nav.sidebar a[data-level="1"] {
+  padding-left: 0.5rem;
+}
+nav.sidebar a[data-level="2"] {
+  padding-left: 1.5rem;
+}
+nav.sidebar a[data-level="3"] {
+  padding-left: 2.5rem;
+}
