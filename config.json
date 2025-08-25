@@ -1,6 +1,6 @@
 {
   "showSidebar": true,
-  "homepage": "Accounting",
+  "homepage": "Accounting.md",
   "sidebar": {
     "exclude": ["README.md"]
   }
