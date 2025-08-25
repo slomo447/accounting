@@ -1,6 +1,3 @@
-body {
-  font-family: "Garamond", "Garamond", serif !important;
-}
 sidebar {
 .sidebar nav .tree-item[data-level="1"] { margin-left: 0em; }
 .sidebar nav .tree-item[data-level="2"] { margin-left: 1em; }
