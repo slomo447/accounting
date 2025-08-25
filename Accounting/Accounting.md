@@ -1,14 +1,11 @@
 ---
-dg-home: true
-dg-publish: true
 words:
   2025-08-10: 47
-  2025-08-25: 48
 ---
 
 %% Begin Waypoint %%
 - **[[Financial Accounting and Reporting 1]]**
-- **Financial Accounting and Reporting 2**difi
+- **Financial Accounting and Reporting 2**
 - **[[Management Sciencs]]**
 - **[[Managerial Economics]]**
 	- **Attachment**
