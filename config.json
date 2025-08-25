@@ -1,5 +1,6 @@
 {
-  "showSidebar": true,
+  "customCssFile": "custom.css",
+  "showSidebar": false,
   "homepage": "Accounting.md",
   "sidebar": {
     "exclude": ["README.md"]
